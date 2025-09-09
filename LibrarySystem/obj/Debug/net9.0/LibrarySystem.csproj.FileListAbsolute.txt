@@ -1,0 +1,14 @@
+C:\Users\Administrator\LibrarySystem\bin\Debug\net9.0\LibrarySystem.exe
+C:\Users\Administrator\LibrarySystem\bin\Debug\net9.0\LibrarySystem.deps.json
+C:\Users\Administrator\LibrarySystem\bin\Debug\net9.0\LibrarySystem.runtimeconfig.json
+C:\Users\Administrator\LibrarySystem\bin\Debug\net9.0\LibrarySystem.dll
+C:\Users\Administrator\LibrarySystem\bin\Debug\net9.0\LibrarySystem.pdb
+C:\Users\Administrator\LibrarySystem\obj\Debug\net9.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\Administrator\LibrarySystem\obj\Debug\net9.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\LibrarySystem\obj\Debug\net9.0\LibrarySystem.dll
+C:\Users\Administrator\LibrarySystem\obj\Debug\net9.0\refint\LibrarySystem.dll
+C:\Users\Administrator\LibrarySystem\obj\Debug\net9.0\LibrarySystem.pdb
+C:\Users\Administrator\LibrarySystem\obj\Debug\net9.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\Administrator\LibrarySystem\obj\Debug\net9.0\ref\LibrarySystem.dll
